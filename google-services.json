@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "20750751707",
+    "project_id": "quantumone-364019",
+    "storage_bucket": "quantumone-364019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20750751707:android:800cbbafcb3eee36dd79fe",
+        "android_client_info": {
+          "package_name": "io.quantumone.blocktok"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20750751707-dab3otid5jca4drftnuvqodv8fu7efjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFHFbRnSjS6vDWDhBt2suHdhscq5D3ZRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20750751707-1ros9f2icja8jf05lqforl7q3vefic2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20750751707:android:021ea63a6b98cd41dd79fe",
+        "android_client_info": {
+          "package_name": "io.quantumone.cardinalkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20750751707-dab3otid5jca4drftnuvqodv8fu7efjr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFHFbRnSjS6vDWDhBt2suHdhscq5D3ZRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20750751707-1ros9f2icja8jf05lqforl7q3vefic2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
